@@ -1,0 +1,4 @@
+input "enter x to compute square root of: " x
+y = sqrt(x)
+msg "square root is "
+print y

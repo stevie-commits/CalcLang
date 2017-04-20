@@ -1,0 +1,4 @@
+input "enter first: " a
+b = 3.14
+c = 1 + b*-a
+msg "answer: " print c newline

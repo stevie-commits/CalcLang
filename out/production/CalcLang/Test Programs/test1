@@ -1,0 +1,10 @@
+msg "Test 1    "
+input "enter a (should be 10.5): " a
+msg "got input " show a  newline
+
+b = 3.1
+c = -4.4
+
+x = a+b*c
+
+

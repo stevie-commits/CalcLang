@@ -1,0 +1,15 @@
+# this is a test of the Lexer
+#  don't try to understand what it does!
+
+global     ape, 
+   bob, r2d2
+
+main()
+
+main()
+
+ape = "hello"  bob = '''  r2d2 = 3715
+
+f( 3, add(bob,1), "what?" )
+msg "bob is now: "  show bob  newline
+
